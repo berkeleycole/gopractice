@@ -1,8 +1,9 @@
-package main
+package lessons
 
 import "fmt"
 
-func main() {
+// ValuesAndVariables ...
+func ValuesAndVariables() {
 	// Go has various value types including strings, integers, floats, booleans, etc. Here are a few basic examples.
 
 	// TEXT

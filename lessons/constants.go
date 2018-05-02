@@ -1,16 +1,15 @@
-package main
+package lessons
 
 import (
 	"fmt"
 	"math"
 )
 
+// Go supports constants of character, string, boolean, and numeric values.
 const s string = "constant"
 
-// Go supports constants of character, string, boolean, and numeric values.
-
-func main() {
-
+// Constants ...
+func Constants() {
 	fmt.Println(s)
 
 	const n = 500000000
